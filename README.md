@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,50 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+
+### Introduction
+
+The Trading Economics API provides you with direct access to 300.000 economic indicators, exchange rates, stock market indexes, government bond yields and commodity prices. Providing several request methods to query our databases, with samples available in different programming languages, it is the best way to export data in XML, CSV or JSON format. The API can be used to feed a custom developed application, a public website or just off-the-shelf software like Microsoft Excel.
+
+#
+
+**Documentation**
+
+https://docs.tradingeconomics.com/
+
+#
+
+**GitHub Examples**
+
+https://github.com/tradingeconomics/tradingeconomics
+
+#
+
+**Python**
+
+[https://github.com/tradingeconomics/tradingeconomics-python](https://github.com/tradingeconomics/tradingeconomics-python)
+
+#
+
+**Jupyter Notebooks**
+
+https://github.com/tradingeconomics/notebooks
+
+#
+
+**Docker**
+
+https://hub.docker.com/u/tradingeconomics
+
+#
+
+**Learn More**
+
+https://tradingeconomics.com/api/
+
+
+
+
+
+>>>>>>> origin/master
